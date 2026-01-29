@@ -37,3 +37,6 @@ A Chrome extension + n8n automation that lets users apply to jobs posted on Link
 ## Disclaimer
 This project is not affiliated with LinkedIn.
 All actions are user-initiated.
+
+## Sample screen
+<img width="331" height="379" alt="image" src="https://github.com/user-attachments/assets/5928c447-2fea-4ed7-a93e-485e90b7c585" />
